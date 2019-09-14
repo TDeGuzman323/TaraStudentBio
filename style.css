@@ -1,0 +1,33 @@
+<style>
+
+body {
+    text-align: center;
+    border-style: groove;
+    
+}
+h1 {
+    background-color: grey;
+    color: white;
+}
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3 {
+    font-family: cursive;
+    font-size: 25px;
+    color: #006633; 
+}
+h4 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+ul {
+    border: 8px solid #006633;
+}
+
+img {
+    border: 15px solid #808080;
+    padding: 10px;
+    border-style: groove;
+
+}
+</style> 
